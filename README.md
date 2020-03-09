@@ -1,19 +1,19 @@
 # Python-for-STEM-Teachers-Workshop
 This is a Programming Workshop for STEM Teachers
 
-# Pre-requisites for this Workshop
+## Pre-requisites for this Workshop
 
 **Nothing** :D
 
 All you need is a gmail account (and sometimes maybe not even that!)
-# Getting Started
+## Getting Started
 
 To begin with this workshop it is recommended that you look at the [First notebook](Introduction_to_Markdown_and_Python.ipynb) to learn about the implementations of Markdown, LaTeX and Python inside Google Colab's version of a Jupyter Notebook.
 
 
 
-# If you want to run locally 
-## Installing Jupyter Notebook
+## If you want to run locally 
+### Installing Jupyter Notebook
 **Recommended method** 
 You can install the [Anaconda distribution](https://www.anaconda.com/distribution/) for python which is filled with all the packages you will need. 
 
@@ -24,7 +24,7 @@ Or you can manually install Jupyter Notebooks in your computer along with some b
 
 [Follow these instructions first!!!!](https://jupyter.org/install)
 
-## Copying the files locally
+### Copying the files locally
 
 If you have a command line with bash you can have a local copy of all the files that will be used in the workshop
 
