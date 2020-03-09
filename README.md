@@ -10,7 +10,9 @@ All you need is a gmail account (and sometimes maybe not even that!)
 
 To begin with this workshop it is recommended that you look at the [First notebook](Introduction_to_Markdown_and_Python.ipynb) to learn about the implementations of Markdown, LaTeX and Python inside Google Colab's version of a Jupyter Notebook.
 
-Just click the ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg) and you will instantly open the document online. 
+Just click the ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg) 
+
+and you will instantly open the document online. 
 
 **Recommendation** Either Save the `.ipynb` file to your google drive or open the notebook in *playground mode*
 
