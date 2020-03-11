@@ -19,11 +19,11 @@ and you will instantly open the document online.
 
 ## If you want to run locally 
 ### Installing Jupyter Notebook
-**Recommended method** 
-You can install the [Anaconda distribution](https://www.anaconda.com/distribution/) for python which is filled with all the packages you will need. 
+**Two methods** 
+1. You can install the [Anaconda distribution](https://www.anaconda.com/distribution/) for python which is filled with all the packages you will need. **Recommended method**
 
 
-Or you can manually install Jupyter Notebooks in your computer along with some basic packages as mentioned below. [Follow these instructions to install Jupyter](https://jupyter.org/install)
+2. Or you can manually install Jupyter Notebooks in your computer along with some basic packages as mentioned below. [Follow these instructions to install Jupyter](https://jupyter.org/install)
 
 **You must have [python](https://www.python.org/downloads/) installed in your computer for Jupyter to work**
 
