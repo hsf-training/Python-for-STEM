@@ -25,7 +25,7 @@ You can install the [Anaconda distribution](https://www.anaconda.com/distributio
 
 Or you can manually install Jupyter Notebooks in your computer along with some basic packages as mentioned below.
 
-**You must have python3 installed in your computer for this to work**
+**You must have [python](https://www.python.org/downloads/) installed in your computer for this to work**
 
 [Follow these instructions first!!!!](https://jupyter.org/install)
 
