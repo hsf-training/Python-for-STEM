@@ -1,5 +1,5 @@
 # Python-for-STEM-Teachers-Workshop
-This is a Programming Workshop for STEM Teachers
+This is the Programming for STEM Teachers Workshop repository. This is intended for people (mainly teachers) who are not familiar with programming at any level. The hope is that through this workshop we are able to enable STEM teachers with basic knowledge on Google Colab and Python such that they can further develope and complement their class with programming in any way.
 
 ## Pre-requisites for this Workshop
 
