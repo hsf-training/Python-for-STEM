@@ -9,7 +9,7 @@ Session #1
 
 Session #2
 
-2. Barometer
+2. Barometer 
 1. Maps
 1. Quick Start to CMS Open Data
 1. Calculate Invariant Mass
@@ -22,7 +22,7 @@ Session #2
 All you need is a gmail account (and sometimes maybe not even that!)
 ## Getting Started
 
-To begin with this workshop it is recommended that you look at the [First notebook](Introduction_to_Markdown_and_Python.ipynb) to learn about the implementations of Markdown, LaTeX and Python inside Google Colab's version of a Jupyter Notebook.
+To begin with this workshop it is recommended that you look at the [First notebook](notebooks/1-Introduction_to_Markdown_and_Python.ipynb) to learn about the implementations of Markdown, LaTeX and Python inside Google Colab's version of a Jupyter Notebook.
 
 When opening the notebook just click the <img src="colab-button.png" alt="Open In Colab" width="120"/> found on top of the file and you will instantly open the document online. 
 
