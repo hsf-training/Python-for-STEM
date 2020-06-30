@@ -1,6 +1,20 @@
 # Python-for-STEM-Teachers-Workshop
 This is the Programming for STEM Teachers Workshop repository. This is intended for people (mainly teachers) who are not familiar with programming at any level. The hope is that through this workshop we are able to enable STEM teachers with basic knowledge on Google Colab and Python such that they can further develope and complement their class with programming in any way.
 
+## List of Notebooks
+
+Session #1
+
+1. Intro to Markdown
+
+Session #2
+
+2. Barometer
+1. Maps
+1. Quick Start to CMS Open Data
+1. Calculate Invariant Mass
+1. Higgsto4leptons
+
 ## Pre-requisites for this Workshop
 
 **Nothing** :D
