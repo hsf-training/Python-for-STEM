@@ -6,12 +6,12 @@ This is the Programming for STEM Teachers Workshop repository. This is intended 
 Session #1
 
 1. Intro to Markdown
+1. Barometer 
+1. Maps
 
 Session #2
 
-2. Barometer 
-1. Maps
-1. Quick Start to CMS Open Data
+4. Quick Start to CMS Open Data
 1. Calculate Invariant Mass
 1. Higgsto4leptons
 
