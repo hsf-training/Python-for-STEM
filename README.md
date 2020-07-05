@@ -13,8 +13,7 @@ Session #2
 
 4. Quick Start to CMS Open Data
 1. Calculate Invariant Mass
-1. Higgsto4leptons
-
+1. Higgs to 4 leptons <img src="https://render.githubusercontent.com/render/math?math=H\to 4 l">
 ## Pre-requisites for this Workshop
 
 **Nothing** :D
