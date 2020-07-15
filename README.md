@@ -1,5 +1,5 @@
 # Python-for-STEM-Teachers-Workshop
-This is the Programming for STEM Teachers Workshop repository. This is intended for people (mainly teachers) who are not familiar with programming at any level. The hope is that through this workshop we are able to enable STEM teachers with basic knowledge on Google Colab and Python such that they can further develope and complement their class with programming in any way.
+This is the Programming for STEM Teachers Workshop repository. This is intended for people (mainly teachers) who are not familiar with programming at any level. The hope is that through this workshop we are able to enable STEM teachers with basic knowledge on Google Colab and Python such that they can further develop and complement their class with programming in any way.
 
 ## List of Notebooks
 
@@ -19,13 +19,19 @@ Session #2
 **Nothing** :D
 
 All you need is a gmail account (and sometimes maybe not even that!)
+
 ## Getting Started
+
+If you want to gather more information about what a notebook **is** then you might be interested in reading about what [Jupyter](https://en.wikipedia.org/wiki/Project_Jupyter) is.
 
 To begin with this workshop it is recommended that you look at the [First notebook](notebooks/1-Introduction_to_Markdown_and_Python.ipynb) to learn about the implementations of Markdown, LaTeX and Python inside Google Colab's version of a Jupyter Notebook.
 
 When opening the notebook just click the <img src="colab-button.png" alt="Open In Colab" width="120"/> found on top of the file and you will instantly open the document online. 
 
-**Recommendation** Either Save the `.ipynb` file to your google drive or open the notebook in *playground mode*
+**Recommendation** MAKE A COPY BEFORE YOU START EDITING IT
+
+Go to **File** --> **Save a copy in Drive...**
+
 
 
 ## If you want to run locally 
