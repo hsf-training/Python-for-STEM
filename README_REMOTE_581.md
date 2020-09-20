@@ -6,7 +6,7 @@ This is the Programming for STEM Teachers Workshop repository. This is intended 
 Session #1
 
 1. Intro to Markdown
-1. Barometer
+1. Barometer 
 1. Maps
 
 Session #2
@@ -26,7 +26,7 @@ If you want to gather more information about what a notebook **is** then you mig
 
 To begin with this workshop it is recommended that you look at the [First notebook](notebooks/1-Introduction_to_Markdown_and_Python.ipynb) to learn about the implementations of Markdown, LaTeX and Python inside Google Colab's version of a Jupyter Notebook.
 
-When opening the notebook just click the <img src="colab-button.png" alt="Open In Colab" width="120"/> found on top of the file and you will instantly open the document online.
+When opening the notebook just click the <img src="colab-button.png" alt="Open In Colab" width="120"/> found on top of the file and you will instantly open the document online. 
 
 **Recommendation** MAKE A COPY BEFORE YOU START EDITING IT
 
@@ -34,9 +34,9 @@ Go to **File** --> **Save a copy in Drive...**
 
 
 
-## If you want to run locally
+## If you want to run locally 
 ### Installing Jupyter Notebook
-**Two methods**
+**Two methods** 
 1. You can install the [Anaconda distribution](https://www.anaconda.com/distribution/) for python which is filled with all the packages you will need. **Recommended method**
 
 
@@ -50,13 +50,13 @@ Go to **File** --> **Save a copy in Drive...**
 
 If you have a command line with bash you can have a local copy of all the files that will be used in the workshop
 
-Just do the following
+Just do the following 
 
 
 *you can copy by either `ctrl-Shift-C` or simply by selecting the lines. You can paste in the command line by `ctrl-Shift-V` , `Shift-Ins` or `right-click`*
 
 ```shell
-cd
+cd 
 git clone https://github.com/GuillermoFidalgo/Python-for-STEM-Teachers-Workshop.git
 cd Python-for-STEM-Teachers-Workshop/
 ```
