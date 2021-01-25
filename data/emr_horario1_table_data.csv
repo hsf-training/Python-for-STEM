@@ -1,158 +1,149 @@
-Semestre,Course,Course name,Section,Credits,Capacity,Days,Hours,Room,Professor,?
-2020S2,FISI3091,ELEMENTS OF PHYSICS,70,3,30,M  W  F,1:30 pm - 2:20 pm,322,Kevin Vargas Velez,471356
-2020S2,FISI3091,ELEMENTS OF PHYSICS,41,3,30,M  W  F,10:30 am - 11:20 am,322,Samuel Santana Colon,463184
-2020S2,FISI3091,ELEMENTS OF PHYSICS,40,3,30,M  W  F,10:30 am - 11:20 am,325,Carlos Pabon Ortiz,462552
-2020S2,FISI3091,ELEMENTS OF PHYSICS,50,3,30,M  W  F,11:30 am - 12:20 pm,325,-,462553
-2020S2,FISI3091,ELEMENTS OF PHYSICS,60,3,30,M  W  F,12:30 pm - 1:20 pm,325,Carlos Pabon Ortiz,462554
-2020S2,FISI3092,Elements Of Physics Lab,26,1,18,Th,8:30 am - 10:20 am,F220,-,461683
-2020S2,FISI3092,Elements Of Physics Lab,60,1,18,M,12:30 pm - 2:20 pm,F220,-,461684
-2020S2,FISI3092,Elements Of Physics Lab,80,1,18,W,2:30 pm - 4:20 pm,F220,-,461686
-2020S2,FISI3092,Elements Of Physics Lab,86,1,18,Tu,2:30 pm - 4:20 pm,F220,-,461687
-2020S2,FISI3151,Modern College Physics I,30,3,30,M  W  F,9:30 am - 10:20 am,325,Cesar Augusto Pollack Chinchay,462651
-2020S2,FISI3151,Modern College Physics I,10,3,30,M  W  F,7:30 am - 8:20 am,325,Cesar Augusto Pollack Chinchay,462436
-2020S2,FISI3151,Modern College Physics I,20,3,30,M  W  F,8:30 am - 9:20 am,325,Cesar Augusto Pollack Chinchay,462437
-2020S2,FISI3151,Modern College Physics I,36,3,30,Tu  Th,9:00 am - 10:15 am,325,Cesar Augusto Pollack Chinchay,462438
-2020S2,FISI3151,Modern College Physics I,80,3,30,M  W  F,2:30 pm - 3:20 pm,323,-,462443
-2020S2,FISI3151,Modern College Physics I,96,3,30,Tu  Th,3:30 pm - 4:45 pm,325,Cesar Augusto Pollack Chinchay,474992
-2020S2,FISI3152,Modern College Physics II,10,3,30,M  W  F,7:30 am - 8:20 am,323,Pablo J Marrero Soto,462652
-2020S2,FISI3152,Modern College Physics II,50,3,30,M  W  F,11:30 am - 12:20 pm,323,Kevin Vargas Velez,462653
-2020S2,FISI3152,Modern College Physics II,16,3,30,Tu  Th,7:30 am - 8:45 am,436,Kevin Vargas Velez,470625
-2020S2,FISI3152,Modern College Physics II,20,3,30,M  W  F,8:30 am - 9:20 am,323,Pablo J Marrero Soto,462444
-2020S2,FISI3152,Modern College Physics II,30,3,30,M  W  F,9:30 am - 10:20 am,323,Neida M. Santacruz Sarmiento,462446
-2020S2,FISI3152,Modern College Physics II,36,3,30,Tu  Th,9:00 am - 10:15 am,323,Neida M. Santacruz Sarmiento,462448
-2020S2,FISI3152,Modern College Physics II,40,3,30,M  W  F,10:30 am - 11:20 am,323,Pablo J Marrero Soto,462449
-2020S2,FISI3152,Modern College Physics II,66,3,30,Tu  Th,12:30 pm - 1:45 pm,323,Dilsom Sanchez Quintero,462450
-2020S2,FISI3152,Modern College Physics II,70,3,30,M  W  F,1:30 pm - 2:20 pm,325,-,462451
-2020S2,FISI3152,Modern College Physics II,86,3,30,Tu  Th,2:00 pm - 3:15 pm,323,Neida M. Santacruz Sarmiento,462453
-2020S2,FISI3152,Modern College Physics II,80,3,30,M  W  F,2:30 pm - 3:20 pm,325,Kevin Vargas Velez,471014
-2020S2,FISI3152,Modern College Physics II,17,3,30,Tu  Th,7:30 am - 8:45 am,323,Dilsom Sanchez Quintero,471015
-2020S2,FISI3152,Modern College Physics II,87,3,30,Tu  Th,2:00 pm - 3:15 pm,325,Kevin Vargas Velez,471016
-2020S2,FISI3153,Modern College Physic Lab,20,1,18,W,8:30 am - 10:20 am,213,-,461688
-2020S2,FISI3153,Modern College Physic Lab,26,1,18,Th,8:30 am - 10:20 am,213,-,461689
-2020S2,FISI3153,Modern College Physic Lab,40,1,18,W,10:30 am - 12:20 pm,213,-,461691
-2020S2,FISI3153,Modern College Physic Lab,60,1,18,M,12:30 pm - 2:20 pm,213,-,461692
-2020S2,FISI3153,Modern College Physic Lab,66,1,18,Tu,12:30 pm - 2:20 pm,213,-,461695
-2020S2,FISI3153,Modern College Physic Lab,61,1,18,W,12:30 pm - 2:20 pm,213,-,461699
-2020S2,FISI3153,Modern College Physic Lab,67,1,18,Th,12:30 pm - 2:20 pm,213,-,461700
-2020S2,FISI3153,Modern College Physic Lab,80,1,18,W,2:30 pm - 4:20 pm,213,-,461701
-2020S2,FISI3153,Modern College Physic Lab,86,1,18,Tu,2:30 pm - 4:20 pm,213,-,461702
-2020S2,FISI3153,Modern College Physic Lab,106,1,18,Tu,4:30 pm - 6:20 pm,213,-,461703
-2020S2,FISI3154,Modern College Physic Lab,26,1,18,Tu,8:30 am - 10:20 am,F212,-,461705
-2020S2,FISI3154,Modern College Physic Lab,20,1,18,W,8:30 am - 10:20 am,F212,-,461709
-2020S2,FISI3154,Modern College Physic Lab,27,1,18,Th,8:30 am - 10:20 am,F212,-,461711
-2020S2,FISI3154,Modern College Physic Lab,40,1,18,W,10:30 am - 12:20 pm,F212,-,461712
-2020S2,FISI3154,Modern College Physic Lab,60,1,18,W,12:30 pm - 2:20 pm,F212,-,461713
-2020S2,FISI3154,Modern College Physic Lab,61,1,18,M,12:30 pm - 2:20 pm,F212,-,461714
-2020S2,FISI3154,Modern College Physic Lab,66,1,18,Tu,12:30 pm - 2:20 pm,F212,-,461715
-2020S2,FISI3154,Modern College Physic Lab,67,1,18,Th,12:30 pm - 2:20 pm,F212,-,461717
-2020S2,FISI3154,Modern College Physic Lab,80,1,18,M,2:30 pm - 4:20 pm,F212,-,461720
-2020S2,FISI3154,Modern College Physic Lab,81,1,18,W,2:30 pm - 4:20 pm,F212,-,461723
-2020S2,FISI3154,Modern College Physic Lab,86,1,18,Tu,2:30 pm - 4:20 pm,F212,-,461725
-2020S2,FISI3154,Modern College Physic Lab,100,1,18,M,4:30 pm - 6:20 pm,F212,-,461727
-2020S2,FISI3154,Modern College Physic Lab,101,1,18,W,4:30 pm - 6:20 pm,F212,-,461728
-2020S2,FISI3154,Modern College Physic Lab,106,1,18,Tu,4:30 pm - 6:20 pm,F212,-,461730
-2020S2,FISI3162,General Physics II,70,4,25,M  Tu  W  F,1:30 pm - 2:20 pm,321,Erick Roura Davila,463655
-2020S2,FISI3164,General Physics II Lab,66,1,18,Th,12:30 pm - 2:20 pm,F226,-,463707
-2020S2,FISI3171,Physics I,10,4,30,M  Tu  W  F,7:30 am - 8:20 am,329,Frank W. Mendoza Centeno,462888
-2020S2,FISI3171,Physics I,72,4,30,M  Tu  W  F,1:30 pm - 2:20 pm,319,-,462649
-2020S2,FISI3171,Physics I,20,4,30,M  Tu  W  F,8:30 am - 9:20 am,328,Henri Radovan,462457
-2020S2,FISI3171,Physics I,21,4,30,M  Tu  W  F,8:30 am - 9:20 am,329,Frank W. Mendoza Centeno,462461
-2020S2,FISI3171,Physics I,22,4,30,M  Tu  W  Th,8:30 am - 9:20 am,322,-,462464
-2020S2,FISI3171,Physics I,30,4,30,M  Tu  W  F,9:30 am - 10:20 am,328,Henri Radovan,462465
-2020S2,FISI3171,Physics I,31,4,30,M  Tu  W  F,9:30 am - 10:20 am,329,Frank W. Mendoza Centeno,462466
-2020S2,FISI3171,Physics I,32,4,30,M  Tu  W  F,9:30 am - 10:20 am,322,Dilsom Sanchez Quintero,462468
-2020S2,FISI3171,Physics I,60,4,30,M  Tu  W  F,12:30 pm - 1:20 pm,330,Raul Portuondo Duany,462472
-2020S2,FISI3171,Physics I,71,4,30,M  Tu  W  F,1:30 pm - 2:20 pm,330,Raul Portuondo Duany,462479
-2020S2,FISI3171,Physics I,80,4,30,M  Tu  W  F,2:30 pm - 3:20 pm,321,Hector Mendez Mella,462480
-2020S2,FISI3171,Physics I,81,4,30,M  Tu  W  F,2:30 pm - 3:20 pm,328,Dilsom Sanchez Quintero,462481
-2020S2,FISI3171,Physics I,90,4,30,M  Tu  W  F,3:30 pm - 4:20 pm,330,Raul Portuondo Duany,462482
-2020S2,FISI3171,Physics I,91,4,30,M  Tu  W  Th,3:30 pm - 4:20 pm,329,Moises Orengo Aviles,462483
-2020S2,FISI3172,PHYSICS II,62,4,30,M  Tu  W  F,12:30 pm - 1:20 pm,319,Joel De Jesus Matos,471348
-2020S2,FISI3172,PHYSICS II,82,4,30,M  Tu  W  F,2:30 pm - 3:20 pm,319,Joel De Jesus Matos,471357
-2020S2,FISI3172,PHYSICS II,10,4,30,M  Tu  W  Th,7:30 am - 8:20 am,321,Junqiang Lu,462484
-2020S2,FISI3172,PHYSICS II,20,4,30,M  Tu  W  Th,8:30 am - 9:20 am,319,Joel De Jesus Matos,462485
-2020S2,FISI3172,PHYSICS II,21,4,30,M  Tu  W  Th,8:30 am - 9:20 am,321,Junqiang Lu,462486
-2020S2,FISI3172,PHYSICS II,22,4,60,M  Tu  W  F,8:30 am - 9:20 am,c,Sergiy Lysenko,462487
-2020S2,FISI3172,PHYSICS II,30,4,30,M  Tu  W  F,9:30 am - 10:20 am,319,Yong Jihn Kim,462488
-2020S2,FISI3172,PHYSICS II,31,4,30,M  Tu  W  Th,9:30 am - 10:20 am,321,Junqiang Lu,462489
-2020S2,FISI3172,PHYSICS II,32,4,30,M  Tu  W  F,9:30 am - 10:20 am,330,Juan Eduardo Ramirez Vargas,462490
-2020S2,FISI3172,PHYSICS II,60,4,30,M  Tu  W  F,12:30 pm - 1:20 pm,322,Yong Jihn Kim,462526
-2020S2,FISI3172,PHYSICS II,61,4,30,M  Tu  W  F,12:30 pm - 1:20 pm,328,Juan Eduardo Ramirez Vargas,462530
-2020S2,FISI3172,PHYSICS II,70,4,5,M  Tu  W  F,1:30 pm - 2:20 pm,321,Erick Roura Davila,462531
-2020S2,FISI3172,PHYSICS II,11,4,30,M  Tu  W  Th,7:30 am - 8:20 am,329,-,462533
-2020S2,FISI3172,PHYSICS II,71,4,30,M  Tu  W  Th,1:30 pm - 2:20 pm,329,Moises Orengo Aviles,462535
-2020S2,FISI3172,PHYSICS II,72,4,30,M  Tu  W  F,1:30 pm - 2:20 pm,328,Juan Eduardo Ramirez Vargas,462536
-2020S2,FISI3172,PHYSICS II,80,4,30,M  Tu  W  Th,2:30 pm - 3:20 pm,329,Moises Orengo Aviles,462537
-2020S2,FISI3172,PHYSICS II,81,4,30,M  Tu  W  F,2:30 pm - 3:20 pm,322,Erick Roura Davila,462539
-2020S2,FISI3172,PHYSICS II,90,4,30,M  Tu  W  F,3:30 pm - 4:20 pm,319,Yong Jihn Kim,462541
-2020S2,FISI3172,PHYSICS II,91,4,30,M  Tu  W  Th,3:30 pm - 4:20 pm,322,Sudhir Malik,462544
-2020S2,FISI3172,PHYSICS II,92,4,30,M  Tu  W  F,3:30 pm - 4:20 pm,321,Joel De Jesus Matos,462547
-2020S2,FISI3173,Physics Lab I,20,1,18,W,8:30 am - 10:20 am,223,-,461736
-2020S2,FISI3173,Physics Lab I,26,1,18,Tu,8:30 am - 10:20 am,223,-,461738
-2020S2,FISI3173,Physics Lab I,27,1,18,Th,8:30 am - 10:20 am,223,-,461740
-2020S2,FISI3173,Physics Lab I,40,1,18,W,10:30 am - 12:20 pm,223,-,461742
-2020S2,FISI3173,Physics Lab I,60,1,18,M,12:30 pm - 2:20 pm,223,-,461744
-2020S2,FISI3173,Physics Lab I,61,1,18,W,12:30 pm - 2:20 pm,223,-,461745
-2020S2,FISI3173,Physics Lab I,66,1,18,Tu,12:30 pm - 2:20 pm,223,-,461746
-2020S2,FISI3173,Physics Lab I,67,1,0,Th,12:30 pm - 2:20 pm,223,-,461749
-2020S2,FISI3173,Physics Lab I,80,1,18,M,2:30 pm - 4:20 pm,223,-,461750
-2020S2,FISI3173,Physics Lab I,81,1,18,W,2:30 pm - 4:20 pm,223,-,461751
-2020S2,FISI3173,Physics Lab I,86,1,18,Tu,2:30 pm - 4:20 pm,223,-,461753
-2020S2,FISI3173,Physics Lab I,87,1,18,Th,2:30 pm - 4:20 pm,223,-,461754
-2020S2,FISI3173,Physics Lab I,100,1,18,M,4:30 pm - 6:20 pm,223,-,461755
-2020S2,FISI3173,Physics Lab I,101,1,18,W,4:30 pm - 6:20 pm,223,-,461756
-2020S2,FISI3173,Physics Lab I,106,1,18,Tu,4:30 pm - 6:20 pm,223,-,461758
-2020S2,FISI3174,Physics Lab II,20,1,18,W,8:30 am - 10:20 am,F222,-,461759
-2020S2,FISI3174,Physics Lab II,26,1,18,Tu,8:30 am - 10:20 am,F222,-,461760
-2020S2,FISI3174,Physics Lab II,27,1,18,Th,8:30 am - 10:20 am,F222,-,461761
-2020S2,FISI3174,Physics Lab II,28,1,18,Tu,8:30 am - 10:20 am,F221,-,461762
-2020S2,FISI3174,Physics Lab II,29,1,18,Th,8:30 am - 10:20 am,F221,-,461763
-2020S2,FISI3174,Physics Lab II,40,1,18,W,10:30 am - 12:20 pm,F222,-,461764
-2020S2,FISI3174,Physics Lab II,60,1,18,W,12:30 pm - 2:20 pm,F222,-,461765
-2020S2,FISI3174,Physics Lab II,61,1,18,W,12:30 pm - 2:20 pm,F221,-,461766
-2020S2,FISI3174,Physics Lab II,66,1,18,Tu,12:30 pm - 2:20 pm,F222,-,461767
-2020S2,FISI3174,Physics Lab II,67,1,18,Tu,12:30 pm - 2:20 pm,F221,-,461768
-2020S2,FISI3174,Physics Lab II,68,1,18,Th,12:30 pm - 2:20 pm,F222,-,461769
-2020S2,FISI3174,Physics Lab II,69,1,18,Th,12:30 pm - 2:20 pm,F221,-,461770
-2020S2,FISI3174,Physics Lab II,80,1,18,M,2:30 pm - 4:20 pm,F222,-,461771
-2020S2,FISI3174,Physics Lab II,81,1,18,W,2:30 pm - 4:20 pm,F222,-,461773
-2020S2,FISI3174,Physics Lab II,82,1,18,W,2:30 pm - 4:20 pm,F221,-,461775
-2020S2,FISI3174,Physics Lab II,86,1,18,Tu,2:30 pm - 4:20 pm,F222,-,461776
-2020S2,FISI3174,Physics Lab II,87,1,18,Th,2:30 pm - 4:20 pm,F222,-,461779
-2020S2,FISI3174,Physics Lab II,88,1,18,Th,2:30 pm - 4:20 pm,F221,-,461780
-2020S2,FISI3174,Physics Lab II,89,1,18,Tu,2:30 pm - 4:20 pm,F221,-,461783
-2020S2,FISI3174,Physics Lab II,100,1,18,M,4:30 pm - 6:20 pm,F222,-,461785
-2020S2,FISI3174,Physics Lab II,106,1,18,Tu,4:30 pm - 6:20 pm,F222,-,461786
-2020S2,FISI4002,Seminar II,001#,1,30,-,-,-,Hector Mendez Mella,463191
-2020S2,FISI4020,PHYSICS OF WAVES,86,3,30,Tu  Th,2:00 pm - 3:15 pm,317b,Hector Jimenez Gonzalez,463092
-2020S2,FISI4052,Dynamics,10,3,30,M  W  F,7:30 am - 8:20 am,317b,Carlos Pabon Ortiz,463085
-2020S2,FISI4052,Dynamics,20,3,30,M  W  F,8:30 am - 9:20 am,317b,Carlos Pabon Ortiz,463086
-2020S2,FISI4063,QUANTUM MECHANICS I,40,3,1,M  W  F,10:30 am - 11:20 am,321,Junqiang Lu,474990
-2020S2,FISI4071,ELECTRICITY AND MAGNETISM,110,3,30,M  W  F,5:30 pm - 6:20 pm,317b,Samuel Santana Colon,463185
-2020S2,FISI4071,ELECTRICITY AND MAGNETISM,50,3,30,M  W  F,11:30 am - 12:20 pm,317b,Samuel Santana Colon,463188
-2020S2,FISI4071,ELECTRICITY AND MAGNETISM,60,3,30,M  W  F,12:30 pm - 1:20 pm,317b,Samuel Santana Colon,463089
-2020S2,FISI4077,Intermediate Lab II,16,2,14,Tu  Th,7:30 am - 10:20 am,332,Armando Rua De La Asuncion,463095
-2020S2,FISI4105,Modern Physics,40,3,30,M  W  F,10:30 am - 11:20 am,317b,Frank W. Mendoza Centeno,463124
-2020S2,FISI4107,CONCEPTS LAWS HEAT WAVES,70,4,30,M  W  F,1:30 pm - 3:20 pm,F226,Neida M. Santacruz Sarmiento,463104
-2020S2,FISI4125,Computers In Physics,70,3,18,M  W  F  W,1:30 pm - 2:20 pm     3:30 pm - 5:20 pm,317b     317b,Rafael Ramos,463088
-2020S2,FISI4127,TEACHING METHOD PHYSICS,001#,3,1,-,-,-,Neida M. Santacruz Sarmiento,465884
-2020S2,FISI4997,Special Problems Physics,50,3,15,M  W  F,11:30 am - 12:20 pm,317b,Samuel Santana Colon,463113
-2020S2,FISI4997,Special Problems Physics,51,4,10,M  Tu  W   F,12:30 pm - 1:20 pm     3:30 pm - 4:20 pm,317b     461,Samuel Santana Colon,463186
-2020S2,FISI4997,Special Problems Physics,60,4,10,M  W  F   F,12:30 pm - 1:20 pm     3:30 pm - 4:20 pm,317b     461,Samuel Santana Colon,470705
-2020S2,FISI4999,Undergraduate Research,002#,-,2,-,-,-,Mark Jury,463105
-2020S2,FISI4999,Undergraduate Research,003#,-,5,-,-,-,Henri Radovan,463192
-2020S2,FISI4999,Undergraduate Research,004#,-,5,-,-,-,Sudhir Malik,470491
-2020S2,FISI4999,Undergraduate Research,001#,-,5,-,-,-,Hector Jimenez Gonzalez,463103
-2020S2,FISI6060,Nuclear Physics,50,4,15,M  W  F,11:30 am - 12:20 pm,317b,Samuel Santana Colon,463112
-2020S2,FISI6060,Nuclear Physics,60,4,30,M  W  F    F,12:30 pm - 1:20 pm     3:30 pm - 4:20 pm,317b     461,Samuel Santana Colon,463187
-2020S2,FISI6190,Intro Theoretical Physics,96,3,30,Tu  Th,3:30 pm - 4:45 pm,317b,Hector Jimenez Gonzalez,463093
-2020S2,FISI6280,Graduate Seminar,001#,1,30,-,-,-,Erick Roura Davila,463111
-2020S2,FISI6380,Graduate Seminar,001#,1,30,-,-,-,Samuel Santana Colon,463121
-2020S2,FISI6451,Intro Quantum Theory,30,3,30,M  W  F,9:30 am - 10:20 am,317b,Erick Roura Davila,463090
-2020S2,FISI6510,Special Topics In Physics,70,3,30,M  W  F,1:30 pm - 2:20 pm,317b,-,463454
-2020S2,FISI6991,PHYSICS RESEARCH,001#,-,4,-,-,-,Rafael Ramos,463106
-2020S2,FISI6991,PHYSICS RESEARCH,002#,-,5,-,-,-,Sergiy Lysenko,463107
-2020S2,FISI6991,PHYSICS RESEARCH,003#,-,5,-,-,-,Armando Rua De La Asuncion,463108
-2020S2,FISI6991,PHYSICS RESEARCH,004#,-,5,-,-,-,Sudhir Malik,463109
-2020S2,FISI6991,PHYSICS RESEARCH,005#,-,3,-,-,-,Samuel Santana Colon,463110
-2020S2,FISI6991,PHYSICS RESEARCH,006#,-,2,-,-,-,Henri Radovan,470832
+emr_horario1_table_data
+Semester,Course,Course Name,Section,Credits,Capacity,Days,Hours,Room,Professor,Id
+2020S2,FISI3091,ELEMENTS OF PHYSICS,040,3,30,MÂ Â WÂ Â F,10:30 am - 11:20 am,325,Carlos Pabon Ortiz,479673
+2020S2,FISI3091,ELEMENTS OF PHYSICS,041,3,32,MÂ Â WÂ Â F,10:30 am - 11:20 am,322,Samuel Santana Colon,479676
+2020S2,FISI3091,ELEMENTS OF PHYSICS,060,3,30,MÂ Â WÂ Â F,12:30 pm - 1:20 pm,325,Carlos Pabon Ortiz,479679
+2020S2,FISI3091,ELEMENTS OF PHYSICS,070,3,33,MÂ Â WÂ Â F,1:30 pm - 2:20 pm,322,Kevin Vargas Velez,479691
+2020S2,FISI3092,Elements Of Physics Lab,026,1,22,Th,8:30 am - 10:20 am,F220,DIANA LIZA CASTILLO,479701
+2020S2,FISI3092,Elements Of Physics Lab,060,1,22,M,12:30 pm - 2:20 pm,F220,DIANA LIZA CASTILLO,479711
+2020S2,FISI3092,Elements Of Physics Lab,080,1,22,W,2:30 pm - 4:20 pm,F220,DIANA LIZA CASTILLO,479722
+2020S2,FISI3092,Elements Of Physics Lab,086,1,23,Tu,2:30 pm - 4:20 pm,F220,DIANA LIZA CASTILLO,479724
+2020S2,FISI3151,Modern College Physics I,010,3,32,MÂ Â WÂ Â F,7:30 am - 8:20 am,325,Cesar Augusto Pollack Chinchay,482450
+2020S2,FISI3151,Modern College Physics I,020,3,32,MÂ Â WÂ Â F,8:30 am - 9:20 am,325,Cesar Augusto Pollack Chinchay,482451
+2020S2,FISI3151,Modern College Physics I,036,3,32,TuÂ Â Th,9:00 am - 10:15 am,325,Cesar Augusto Pollack Chinchay,482452
+2020S2,FISI3151,Modern College Physics I,030,3,31,MÂ Â WÂ Â F,9:30 am - 10:20 am,325,Cesar Augusto Pollack Chinchay,482453
+2020S2,FISI3151,Modern College Physics I,096,3,,TuÂ Â Th,3:30 pm - 4:45 pm,325,Cesar Augusto Pollack Chinchay,482454
+2020S2,FISI3152,Modern College Physics II,020,3,31,MÂ Â WÂ Â F,8:30 am - 9:20 am,323,Pablo J Marrero Soto,482455
+2020S2,FISI3152,Modern College Physics II,050,3,31,MÂ Â WÂ Â F,11:30 am - 12:20 pm,323,Kevin Vargas Velez,482456
+2020S2,FISI3152,Modern College Physics II,036,3,30,TuÂ Â Th,9:00 am - 10:15 am,323,Neida M. Santacruz Sarmiento,482457
+2020S2,FISI3152,Modern College Physics II,040,3,30,MÂ Â WÂ Â F,10:30 am - 11:20 am,323,Pablo J Marrero Soto,482458
+2020S2,FISI3152,Modern College Physics II,066,3,32,TuÂ Â Th,12:30 pm - 1:45 pm,323,Dilsom Sanchez Quintero,482459
+2020S2,FISI3152,Modern College Physics II,010,3,30,MÂ Â WÂ Â F,7:30 am - 8:20 am,323,Pablo J Marrero Soto,482460
+2020S2,FISI3152,Modern College Physics II,086,3,30,TuÂ Â Th,2:00 pm - 3:15 pm,323,Neida M. Santacruz Sarmiento,482461
+2020S2,FISI3152,Modern College Physics II,016,3,32,TuÂ Â Th,7:30 am - 8:45 am,436,Kevin Vargas Velez,482462
+2020S2,FISI3152,Modern College Physics II,080,3,31,MÂ Â WÂ Â F,2:30 pm - 3:20 pm,325,Kevin Vargas Velez,482463
+2020S2,FISI3152,Modern College Physics II,017,3,32,TuÂ Â Th,7:30 am - 8:45 am,323,Dilsom Sanchez Quintero,482464
+2020S2,FISI3152,Modern College Physics II,030,3,31,MÂ Â WÂ Â F,9:30 am - 10:20 am,323,Neida M. Santacruz Sarmiento,482465
+2020S2,FISI3152,Modern College Physics II,087,3,32,TuÂ Â Th,2:00 pm - 3:15 pm,325,Kevin Vargas Velez,482466
+2020S2,FISI3153,Modern College Physic Lab,067,1,20,Th,12:30 pm - 2:20 pm,213,JAVIER         RUIDIAZ         BUELVAS,479747
+2020S2,FISI3153,Modern College Physic Lab,080,1,21,W,2:30 pm - 4:20 pm,213,DIEGO GUTIERREZ VILLAREAL,479748
+2020S2,FISI3153,Modern College Physic Lab,086,1,16,Tu,2:30 pm - 4:20 pm,213,DIEGO GUTIERREZ VILLAREAL,479754
+2020S2,FISI3153,Modern College Physic Lab,106,1,22,Tu,4:30 pm - 6:20 pm,213,KEVIN CASTRO ANGULO,479755
+2020S2,FISI3153,Modern College Physic Lab,020,1,20,W,8:30 am - 10:20 am,213,Manuel A Lozano Arroyo,479725
+2020S2,FISI3153,Modern College Physic Lab,026,1,20,Th,8:30 am - 10:20 am,213,JAVIER         RUIDIAZ         BUELVAS,479732
+2020S2,FISI3153,Modern College Physic Lab,040,1,21,W,10:30 am - 12:20 pm,213,KEVIN CASTRO ANGULO,479733
+2020S2,FISI3153,Modern College Physic Lab,060,1,21,M,12:30 pm - 2:20 pm,213,KEVIN CASTRO ANGULO,479736
+2020S2,FISI3153,Modern College Physic Lab,066,1,17,Tu,12:30 pm - 2:20 pm,213,JAVIER         RUIDIAZ         BUELVAS,479738
+2020S2,FISI3153,Modern College Physic Lab,061,1,21,W,12:30 pm - 2:20 pm,213,DIEGO GUTIERREZ VILLAREAL,479739
+2020S2,FISI3154,MODERN COLLEGE PHYSIC LAB,026,1,22,Tu,8:30 am - 10:20 am,F212,DIEGO          PACHERREZ       GALLARDO,479759
+2020S2,FISI3154,MODERN COLLEGE PHYSIC LAB,020,1,22,W,8:30 am - 10:20 am,F212,Julian Salinas Aviles,479762
+2020S2,FISI3154,MODERN COLLEGE PHYSIC LAB,027,1,22,Th,8:30 am - 10:20 am,F212,Julian Salinas Aviles,479765
+2020S2,FISI3154,MODERN COLLEGE PHYSIC LAB,040,1,22,W,10:30 am - 12:20 pm,F212,KEVIN GARCIA GALLARDO,479767
+2020S2,FISI3154,MODERN COLLEGE PHYSIC LAB,060,1,22,W,12:30 pm - 2:20 pm,F212,German Vazquez Perez,479769
+2020S2,FISI3154,MODERN COLLEGE PHYSIC LAB,061,1,22,M,12:30 pm - 2:20 pm,F212,German Vazquez Perez,479773
+2020S2,FISI3154,MODERN COLLEGE PHYSIC LAB,066,1,23,Tu,12:30 pm - 2:20 pm,F212,German Vazquez Perez,479776
+2020S2,FISI3154,MODERN COLLEGE PHYSIC LAB,067,1,22,Th,12:30 pm - 2:20 pm,F212,Julian Salinas Aviles,479778
+2020S2,FISI3154,MODERN COLLEGE PHYSIC LAB,080,1,22,M,2:30 pm - 4:20 pm,F212,DIEGO          PACHERREZ       GALLARDO,479782
+2020S2,FISI3154,MODERN COLLEGE PHYSIC LAB,081,1,22,W,2:30 pm - 4:20 pm,F212,KEVIN GARCIA GALLARDO,479786
+2020S2,FISI3154,MODERN COLLEGE PHYSIC LAB,086,1,22,Tu,2:30 pm - 4:20 pm,F212,HAROLD         GUERRERO        DE LA CRUZ,479789
+2020S2,FISI3154,MODERN COLLEGE PHYSIC LAB,100,1,23,M,4:30 pm - 6:20 pm,F212,DIEGO          PACHERREZ       GALLARDO,479792
+2020S2,FISI3154,MODERN COLLEGE PHYSIC LAB,101,1,22,W,4:30 pm - 6:20 pm,F212,KEVIN GARCIA GALLARDO,479795
+2020S2,FISI3154,MODERN COLLEGE PHYSIC LAB,106,1,22,Tu,4:30 pm - 6:20 pm,F212,DIEGO          PACHERREZ       GALLARDO,479798
+2020S2,FISI3162,General Physics II,070,4,15,MÂ Â TuÂ Â WÂ Â F,1:30 pm - 2:20 pm,321,Erick Roura Davila,479801
+2020S2,FISI3164,General Physics II Lab,066,1,18,Th,12:30 pm - 2:20 pm,F226,Alnaldo Zapata Velez,479806
+2020S2,FISI3171,Physics I,020,4,30,MÂ Â TuÂ Â WÂ Â F,8:30 am - 9:20 am,328,Henri Radovan,479808
+2020S2,FISI3171,Physics I,021,4,36,MÂ Â TuÂ Â WÂ Â F,8:30 am - 9:20 am,329,Frank W. Mendoza Centeno,479819
+2020S2,FISI3171,Physics I,031,4,36,MÂ Â TuÂ Â WÂ Â F,9:30 am - 10:20 am,329,Frank W. Mendoza Centeno,479824
+2020S2,FISI3171,Physics I,030,4,30,MÂ Â TuÂ Â WÂ Â F,9:30 am - 10:20 am,328,Henri Radovan,479828
+2020S2,FISI3171,Physics I,010,4,36,MÂ Â TuÂ Â WÂ Â F,7:30 am - 8:20 am,329,Frank W. Mendoza Centeno,479830
+2020S2,FISI3171,Physics I,032,4,36,MÂ Â TuÂ Â WÂ Â F,9:30 am - 10:20 am,322,Dilsom Sanchez Quintero,479831
+2020S2,FISI3171,Physics I,060,4,30,MÂ Â TuÂ Â WÂ Â F,12:30 pm - 1:20 pm,330,Raul Portuondo Duany,479833
+2020S2,FISI3171,Physics I,071,4,30,MÂ Â TuÂ Â WÂ Â F,1:30 pm - 2:20 pm,330,Raul Portuondo Duany,479837
+2020S2,FISI3171,Physics I,080,4,30,MÂ Â TuÂ Â WÂ Â F,2:30 pm - 3:20 pm,321,Hector Mendez Mella,479838
+2020S2,FISI3171,Physics I,081,4,36,MÂ Â TuÂ Â WÂ Â F,2:30 pm - 3:20 pm,328,Dilsom Sanchez Quintero,479841
+2020S2,FISI3171,Physics I,090,4,30,MÂ Â TuÂ Â WÂ Â F,3:30 pm - 4:20 pm,330,Raul Portuondo Duany,479843
+2020S2,FISI3171,Physics I,091,4,33,MÂ Â TuÂ Â WÂ Â Th,3:30 pm - 4:20 pm,329,Moises Orengo Aviles,479845
+2020S2,FISI3172,PHYSICS II,010,4,30,MÂ Â TuÂ Â WÂ Â Th,7:30 am - 8:20 am,321,Junqiang Lu,479849
+2020S2,FISI3172,PHYSICS II,020,4,34,MÂ Â TuÂ Â WÂ Â Th,8:30 am - 9:20 am,319,Joel De Jesus Matos,479852
+2020S2,FISI3172,PHYSICS II,021,4,30,MÂ Â TuÂ Â WÂ Â Th,8:30 am - 9:20 am,321,Junqiang Lu,479854
+2020S2,FISI3172,PHYSICS II,022,4,60,MÂ Â TuÂ Â WÂ Â F,8:30 am - 9:20 am,c,Sergiy Lysenko,479858
+2020S2,FISI3172,PHYSICS II,030,4,30,MÂ Â TuÂ Â WÂ Â F,9:30 am - 10:20 am,319,Yong Jihn Kim,479865
+2020S2,FISI3172,PHYSICS II,031,4,30,MÂ Â TuÂ Â WÂ Â Th,9:30 am - 10:20 am,321,Junqiang Lu,479869
+2020S2,FISI3172,PHYSICS II,032,4,30,MÂ Â TuÂ Â WÂ Â F,9:30 am - 10:20 am,330,Juan Eduardo Ramirez Vargas,479870
+2020S2,FISI3172,PHYSICS II,060,4,30,MÂ Â TuÂ Â WÂ Â F,12:30 pm - 1:20 pm,322,Yong Jihn Kim,479876
+2020S2,FISI3172,PHYSICS II,061,4,31,MÂ Â TuÂ Â WÂ Â F,12:30 pm - 1:20 pm,328,Juan Eduardo Ramirez Vargas,479877
+2020S2,FISI3172,PHYSICS II,070,4,11,MÂ Â TuÂ Â WÂ Â F,1:30 pm - 2:20 pm,321,Erick Roura Davila,479879
+2020S2,FISI3172,PHYSICS II,071,4,33,MÂ Â TuÂ Â WÂ Â Th,1:30 pm - 2:20 pm,329,Moises Orengo Aviles,479882
+2020S2,FISI3172,PHYSICS II,072,4,30,MÂ Â TuÂ Â WÂ Â F,1:30 pm - 2:20 pm,328,Juan Eduardo Ramirez Vargas,479887
+2020S2,FISI3172,PHYSICS II,080,4,34,MÂ Â TuÂ Â WÂ Â Th,2:30 pm - 3:20 pm,329,Moises Orengo Aviles,479894
+2020S2,FISI3172,PHYSICS II,081,4,30,MÂ Â TuÂ Â WÂ Â F,2:30 pm - 3:20 pm,322,Erick Roura Davila,479896
+2020S2,FISI3172,PHYSICS II,090,4,30,MÂ Â TuÂ Â WÂ Â F,3:30 pm - 4:20 pm,319,Yong Jihn Kim,479903
+2020S2,FISI3172,PHYSICS II,091,4,30,MÂ Â TuÂ Â WÂ Â Th,3:30 pm - 4:20 pm,322,Sudhir Malik,479910
+2020S2,FISI3172,PHYSICS II,092,4,34,MÂ Â TuÂ Â WÂ Â F,3:30 pm - 4:20 pm,321,Joel De Jesus Matos,479915
+2020S2,FISI3172,PHYSICS II,062,4,34,MÂ Â TuÂ Â WÂ Â F,12:30 pm - 1:20 pm,319,Joel De Jesus Matos,479923
+2020S2,FISI3172,PHYSICS II,082,4,34,MÂ Â TuÂ Â WÂ Â F,2:30 pm - 3:20 pm,319,Joel De Jesus Matos,479930
+2020S2,FISI3173,Physics Lab I,020,1,22,W,8:30 am - 10:20 am,223,Edgar Albelo Ortiz,479935
+2020S2,FISI3173,Physics Lab I,026,1,21,Tu,8:30 am - 10:20 am,223,Manuel A Lozano Arroyo,479937
+2020S2,FISI3173,Physics Lab I,027,1,22,Th,8:30 am - 10:20 am,223,Manuel A Lozano Arroyo,479942
+2020S2,FISI3173,Physics Lab I,040,1,23,W,10:30 am - 12:20 pm,223,MAURICIO       MATTA           SECLEN,479943
+2020S2,FISI3173,Physics Lab I,060,1,22,M,12:30 pm - 2:20 pm,223,NEFTALI YEPES LARA,479950
+2020S2,FISI3173,Physics Lab I,061,1,22,W,12:30 pm - 2:20 pm,223,Edgar Albelo Ortiz,479953
+2020S2,FISI3173,Physics Lab I,066,1,22,Tu,12:30 pm - 2:20 pm,223,MAURICIO       MATTA           SECLEN,479957
+2020S2,FISI3173,Physics Lab I,067,1,22,Th,12:30 pm - 2:20 pm,223,NEFTALI YEPES LARA,479959
+2020S2,FISI3173,Physics Lab I,080,1,22,M,2:30 pm - 4:20 pm,223,THALIA         QUINTANA        JARAMILLO,479961
+2020S2,FISI3173,Physics Lab I,081,1,22,W,2:30 pm - 4:20 pm,223,NEFTALI YEPES LARA,479963
+2020S2,FISI3173,Physics Lab I,086,1,21,Tu,2:30 pm - 4:20 pm,223,Edgar Albelo Ortiz,479965
+2020S2,FISI3173,Physics Lab I,087,1,22,Th,2:30 pm - 4:20 pm,223,Edgar Albelo Ortiz,479968
+2020S2,FISI3173,Physics Lab I,100,1,22,M,4:30 pm - 6:20 pm,223,THALIA         QUINTANA        JARAMILLO,479970
+2020S2,FISI3173,Physics Lab I,101,1,22,W,4:30 pm - 6:20 pm,223,MAURICIO       MATTA           SECLEN,479972
+2020S2,FISI3173,Physics Lab I,106,1,22,Tu,4:30 pm - 6:20 pm,223,THALIA         QUINTANA        JARAMILLO,479975
+2020S2,FISI3174,Physics Lab II,066,1,22,Tu,12:30 pm - 2:20 pm,F222,DANILO ARTURO RODRIGUEZ,480000
+2020S2,FISI3174,Physics Lab II,067,1,22,Tu,12:30 pm - 2:20 pm,F221,CRISTHIAN      SUAREZ          BARBOSA,480002
+2020S2,FISI3174,Physics Lab II,068,1,22,Th,12:30 pm - 2:20 pm,F222,DANILO ARTURO RODRIGUEZ,480004
+2020S2,FISI3174,Physics Lab II,069,1,22,Th,12:30 pm - 2:20 pm,F221,CRISTHIAN      SUAREZ          BARBOSA,480006
+2020S2,FISI3174,Physics Lab II,080,1,22,M,2:30 pm - 4:20 pm,F222,HAROLD         GUERRERO        DE LA CRUZ,480008
+2020S2,FISI3174,Physics Lab II,081,1,22,W,2:30 pm - 4:20 pm,F222,ALEXIS         AGUIRRE         NARVAEZ,480010
+2020S2,FISI3174,Physics Lab II,082,1,22,W,2:30 pm - 4:20 pm,F221,ALVARO GUERRERO LAOS,480012
+2020S2,FISI3174,Physics Lab II,086,1,21,Tu,2:30 pm - 4:20 pm,F222,Alnaldo Zapata Velez,480016
+2020S2,FISI3174,Physics Lab II,087,1,22,Th,2:30 pm - 4:20 pm,F222,Alnaldo Zapata Velez,480019
+2020S2,FISI3174,Physics Lab II,088,1,21,Th,2:30 pm - 4:20 pm,F221,JESUS          ORTEGA          CHAGUEZA,480022
+2020S2,FISI3174,Physics Lab II,089,1,19,Tu,2:30 pm - 4:20 pm,F221,JESUS          ORTEGA          CHAGUEZA,480026
+2020S2,FISI3174,Physics Lab II,100,1,22,M,4:30 pm - 6:20 pm,F222,HAROLD         GUERRERO        DE LA CRUZ,480027
+2020S2,FISI3174,Physics Lab II,106,1,22,Tu,4:30 pm - 6:20 pm,F222,JESUS          ORTEGA          CHAGUEZA,480030
+2020S2,FISI3174,Physics Lab II,020,1,22,W,8:30 am - 10:20 am,F222,ALEXIS         AGUIRRE         NARVAEZ,479978
+2020S2,FISI3174,Physics Lab II,026,1,22,Tu,8:30 am - 10:20 am,F222,DANILO ARTURO RODRIGUEZ,479983
+2020S2,FISI3174,Physics Lab II,027,1,22,Th,8:30 am - 10:20 am,F222,DANILO ARTURO RODRIGUEZ,479986
+2020S2,FISI3174,Physics Lab II,028,1,21,Tu,8:30 am - 10:20 am,F221,CRISTHIAN      SUAREZ          BARBOSA,479987
+2020S2,FISI3174,Physics Lab II,029,1,22,Th,8:30 am - 10:20 am,F221,CRISTHIAN      SUAREZ          BARBOSA,479991
+2020S2,FISI3174,Physics Lab II,040,1,23,W,10:30 am - 12:20 pm,F222,ALVARO GUERRERO LAOS,479993
+2020S2,FISI3174,Physics Lab II,060,1,22,W,12:30 pm - 2:20 pm,F222,ALVARO GUERRERO LAOS,479995
+2020S2,FISI3174,Physics Lab II,061,1,21,W,12:30 pm - 2:20 pm,F221,ALEXIS         AGUIRRE         NARVAEZ,479998
+2020S2,FISI4001,Seminar I,001#,1,1,-,-,-,Erick Roura Davila,482383
+2020S2,FISI4002,Seminar II,001#,1,30,-,-,-,Hector Mendez Mella,482384
+2020S2,FISI4020,PHYSICS OF WAVES,086,3,30,TuÂ Â Th,2:00 pm - 3:15 pm,317b,Hector Jimenez Gonzalez,482710
+2020S2,FISI4052,Dynamics,020,3,30,MÂ Â WÂ Â F,8:30 am - 9:20 am,317b,Carlos Pabon Ortiz,480032
+2020S2,FISI4063,QUANTUM MECHANICS I,040,3,2,MÂ Â WÂ Â F,10:30 am - 11:20 am,321,Junqiang Lu,482481
+2020S2,FISI4071,ELECTRICITY AND MAGNETISM,050,3,30,MÂ Â WÂ Â F,11:30 am - 12:20 pm,317b,Samuel Santana Colon,482482
+2020S2,FISI4077,Intermediate Lab II,016,2,14,TuÂ Â Th,7:30 am - 10:20 am,332,Armando Rua De La Asuncion,482414
+2020S2,FISI4105,Modern Physics,040,3,30,MÂ Â WÂ Â F,10:30 am - 11:20 am,317b,Frank W. Mendoza Centeno,480035
+2020S2,FISI4107,CONCEPTS LAWS HEAT WAVES,070,4,30,MÂ Â WÂ Â F,1:30 pm - 3:20 pm,F226,Neida M. Santacruz Sarmiento,483034
+2020S2,FISI4125,Computers In Physics,070,3,18,MÂ Â WÂ Â FW,1:30 pm - 2:20 pm3:30 pm - 5:20 pm,317b317b,Rafael Ramos,482385
+2020S2,FISI4127,TEACHING METHOD PHYSICS,001#,3,1,-,-,-,Neida M. Santacruz Sarmiento,483035
+2020S2,FISI4997,Special Problems Physics,060,4,10,MÂ Â WÂ Â FF,12:30 pm - 1:20 pm3:30 pm - 4:20 pm,317b461,Samuel Santana Colon,482204
+2020S2,FISI4999,Undergraduate Research,001#,-,6,-,-,-,Hector Jimenez Gonzalez,480040
+2020S2,FISI4999,Undergraduate Research,002#,-,2,-,-,-,Mark Jury,480042
+2020S2,FISI4999,Undergraduate Research,003#,-,5,-,-,-,Henri Radovan,480044
+2020S2,FISI4999,Undergraduate Research,004#,-,5,-,-,-,Sudhir Malik,480046
+2020S2,FISI6060,Nuclear Physics,060,4,30,MÂ Â WÂ Â FF,12:30 pm - 1:20 pm3:30 pm - 4:20 pm,317b461,Samuel Santana Colon,480049
+2020S2,FISI6190,Intro Theoretical Physics,096,3,30,TuÂ Â Th,3:30 pm - 4:45 pm,317b,Hector Jimenez Gonzalez,480051
+2020S2,FISI6280,Graduate Seminar,001#,1,30,-,-,-,Erick Roura Davila,480053
+2020S2,FISI6380,Graduate Seminar,001#,1,30,-,-,-,Samuel Santana Colon,480058
+2020S2,FISI6451,Intro Quantum Theory,030,3,30,MÂ Â WÂ Â F,9:30 am - 10:20 am,317b,Erick Roura Davila,480060
+2020S2,FISI6510,Special Topics In PhysicsComputational Physics,070,3,7,MÂ Â WÂ Â F,1:30 pm - 2:20 pm,317b,Rafael Ramos,482306
+2020S2,FISI6510,Special Topics In PhysicsStellar Evolution,080,3,1,MÂ Â WÂ Â F,2:30 pm - 3:20 pm,317b,Henri Radovan,482307
+2020S2,FISI6991,PHYSICS RESEARCH,001#,-,4,-,-,-,Rafael Ramos,480063
+2020S2,FISI6991,PHYSICS RESEARCH,002#,-,5,-,-,-,Sergiy Lysenko,480065
+2020S2,FISI6991,PHYSICS RESEARCH,003#,-,5,-,-,-,Armando Rua De La Asuncion,480067
+2020S2,FISI6991,PHYSICS RESEARCH,004#,-,6,-,-,-,Sudhir Malik,480069
+2020S2,FISI6991,PHYSICS RESEARCH,005#,-,3,-,-,-,Samuel Santana Colon,480071
+2020S2,FISI6991,PHYSICS RESEARCH,006#,-,2,-,-,-,Henri Radovan,480080
