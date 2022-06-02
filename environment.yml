@@ -1,0 +1,18 @@
+name: analysis
+channels:
+  - conda-forge
+dependencies:
+  - root
+  - uproot
+  - numpy
+  - pandas
+  - matplotlib
+  - mplhep
+  - awkward
+  - scipy
+  - scikit-learn
+  - tensorflow
+  - keras
+  - numba
+  - hist
+  - coffea
