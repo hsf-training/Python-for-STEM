@@ -16,3 +16,4 @@ dependencies:
   - numba
   - hist
   - coffea
+  - pydot
