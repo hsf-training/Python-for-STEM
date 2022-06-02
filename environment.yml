@@ -9,6 +9,7 @@ dependencies:
   - matplotlib
   - mplhep
   - awkward
+  - seaborn
   - scipy
   - scikit-learn
   - tensorflow
