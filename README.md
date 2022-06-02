@@ -14,6 +14,11 @@ Session #2
 4. Quick Start to CMS Open Data
 1. Calculate Invariant Mass
 1. Higgs to 4 leptons <img src="https://render.githubusercontent.com/render/math?math=H\to 4 l">
+
+## Other notebooks 
+Other notebooks are created for additional topics like Pandas and Machine Learing 
+
+
 ## Pre-requisites for this Workshop
 
 **Nothing** :D
@@ -30,9 +35,13 @@ When opening the notebook just click the <img src="colab-button.png" alt="Open I
 
 **Recommendation** MAKE A COPY BEFORE YOU START EDITING IT
 
-Go to **File** --> **Save a copy in Drive...**
+Go to **File** --> **Save a copy in Drive**
 
+## Binder
 
+With Binder you don't have to worry about having a google account. Just click on the badge below and a JupyterLab session will open on your browser.
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GuillermoFidalgo/Python-for-STEM-Teachers-Workshop/HEAD)
 
 ## If you want to run locally
 ### Installing Jupyter Notebook
