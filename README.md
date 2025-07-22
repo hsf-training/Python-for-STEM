@@ -15,8 +15,8 @@ Session #2
 1. Calculate Invariant Mass
 1. Higgs to 4 leptons <img src="https://render.githubusercontent.com/render/math?math=H\to 4 l">
 
-## Other notebooks 
-Other notebooks are created for additional topics like Pandas and Machine Learing 
+## Other notebooks
+Other notebooks are created for additional topics like Pandas and Machine Learing
 
 
 ## Pre-requisites for this Workshop
